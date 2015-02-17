@@ -16,7 +16,7 @@ MIT license, all text above must be included in any redistribution
 ****************************************************/
 
 #include "Adafruit_mfGFX/Adafruit_mfGFX.h"
-#include "Adafruit_ILI9341.h"
+#include "Adafruit_ILI9341/Adafruit_ILI9341.h"
 
 
 Adafruit_ILI9341 tft = Adafruit_ILI9341(A2, A1, A0);

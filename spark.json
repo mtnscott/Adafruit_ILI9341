@@ -1,6 +1,6 @@
 {
     "name": "Adafruit_ILI9341",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "author": "Scott Piette <scott.piette@gmail.com>",
     "license": "MIT license, Written by Limor Fried/Ladyada for Adafruit Industries",
     "description": "Library for Adafruit ILI9341 display products, use with Adafruid_mGFX library"
